@@ -1,0 +1,2 @@
+# mDir
+Modified Dirichlet distribution
